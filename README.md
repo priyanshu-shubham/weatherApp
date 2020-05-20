@@ -7,4 +7,4 @@ Instructions to setup :-
 
 Fork the repositary.
 
-Navigate to the required directory (cd<address>).
+Navigate to the required directory (cd\<address\>).
