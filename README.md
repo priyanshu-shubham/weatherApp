@@ -5,7 +5,7 @@ Weather App is created with the help of HTML , CSS and Javascript. It used OpenW
 
 Instructions to setup :-
 
-Fork the repositary.
+Fork the repository.
 
 Navigate to the required directory (cd\<address\>).
 
